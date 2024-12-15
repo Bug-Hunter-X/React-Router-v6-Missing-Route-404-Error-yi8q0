@@ -1,0 +1,3 @@
+# React Router v6 Missing Route - 404 Error
+
+This repository demonstrates a common error in React Router v6: a missing route causing a 404 error.  The `App.js` file shows the incorrect implementation, while `AppSolution.js` provides the corrected version. This issue arises from not defining a route for a specific URL path, leading to the application failing to render the correct component and returning a 404 error instead.
